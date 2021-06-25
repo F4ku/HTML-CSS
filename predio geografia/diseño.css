@@ -1,0 +1,169 @@
+body {
+    background-color: #a1bdc7;
+}
+
+#contenedor {
+    width: 1200px;
+    height: 3930px;
+    background-color: #0e8a6d;
+    margin: auto;
+}
+
+#intro {
+    background-color: #fff;
+    width: 1200px;
+    height: 200px;
+    margin: auto;
+    padding: auto;
+}
+
+#predio {
+    color: #000;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Righteous', cursive;
+
+}
+
+nav li {
+    float: left;
+    margin-left: 150px;
+}
+
+ul.menu {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 25px;
+    border-radius: 30px;
+}
+
+ul.menu li a {
+    width: 210px;
+    height: 50px;
+    background-color:#65b553;
+    margin-bottom: 15px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+    box-shadow: 4px 8px 0px #000000;
+    font-family: 'Righteous', cursive;
+    color: #fff;
+}
+
+ul.menu li a:hover {
+    width: 210px;
+    height: 60px;
+    background-color: #643b96;
+    text-shadow:5px 5px 5px #000000;
+}
+
+#barra1 {
+    width: 1200px;
+    height: 50px;
+    background-color: #0e8a6d;
+}
+#contenido {
+    margin-bottom: 50px;
+    padding: 0;
+    width: 1200px;
+    height: 800px;
+}
+
+h1 {
+    font-size: 31px;
+    font-family: 'Londrina Solid', cursive;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: 'Londrina Solid', cursive;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#agenda {
+    font-size: 25px;
+    font-family: 'Londrina Solid', cursive;
+    margin-right: 30px;
+    text-align: center;
+}
+
+#alumnos {
+    margin: 20px;
+    float: left;
+    text-align: left;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+
+.inicio img {
+    width: 300px;
+    
+}
+
+.acerca {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+}
+
+.acerca ul{
+    list-style-type: disc;
+}
+
+p {
+    margin: 20px;
+    font-size: 25px;
+    font-family: 'Righteous', cursive;
+}
+
+#titulo1 {
+    font-size: 90px;
+    width: 1200px;
+    height: 100px;
+    background-color: #237a58;
+    font-family: 'Zen Dots', cursive;
+}
+
+#titulo2 {
+    font-size: 90px;
+    width: 1200px;
+    height: 100px;
+    background-color: #237a58;
+    font-family: 'Zen Dots', cursive;
+}
+
+#titulo3 {
+    font-size: 90px;
+    width: 1200px;
+    height: 100px;
+    background-color: #237a58;
+    font-family: 'Zen Dots', cursive;
+}
+
+#fotoright {
+    width: 230px;
+}
+
+#acerca li{
+
+    margin-bottom: 30px;
+}
+
+#footer {
+    width: 1200px;
+    height: 120px;
+    background-color: #27b057;
+}
+
+#fin {
+    font-family: 'Righteous', cursive;
+    font-size: 70px;
+    margin: auto;
+}
